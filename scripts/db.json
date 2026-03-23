@@ -1,0 +1,121 @@
+{
+  "battles": [
+    {
+      "id": 0,
+      "name": "Guerra de África",
+      "date": "22 de octubre de 1859-26 de abril de 1860",
+      "region": "Norte de África",
+      "country": "Marruecos",
+      "description": "La guerra de África, primera guerra de Marruecos o guerra hispano-marroquí fue un conflicto bélico que enfrentó a España con el sultanato de Marruecos entre 1859 y 1860, durante el período de los Gobiernos de la Unión Liberal del reinado de Isabel II. La guerra finalizó con el Tratado de Wad-Ras, fi...",
+      "result": "Victoria española",
+      "belligerents": "España | Sultanato jerifiano",
+      "commanders": "Isabel II de España\nLeopoldo O'Donnell\nSegundo Díaz de Herrera\nJuan Prim y Prats\nJuan Alaminos y Vivar\nJuan Zavala\nAntonio Ros de Olano\nRafael Echagüe | Mohammed IV de Marruecos\nMuley el-Abbás\nMuley Ahmed Abderramán",
+      "casualties": "Ejército expedicionario\n• 45 000 soldados\n• 3000 caballos y mulos\n• 78 piezas de artillería\nArmada española\n• 24 buques de guerra\n• 11 buques de transporte\n4040 muertos (2888 por enfermedades y 1152 en combate)\n4994 heridos\nUnos 8000-10 000 muertos en total. | Ejército Real\n• 140 000 efectivos\n6000 muertos",
+      "image": "http://localhost:3000/images/battle_0.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Batalla de Lepanto",
+      "date": "7 de octubre de 1571",
+      "region": "Mediterráneo",
+      "country": "Grecia",
+      "description": "La batalla de Lepanto (en italiano: Battaglia di Lepanto; en turco: İnebahtı deniz muharebesi, 'batalla naval de İnebahtı') fue un combate naval que tuvo lugar el 7 de octubre de 1571 en el golfo de Patras, cerca de la ciudad griega de Naupacto, en ese entonces conocida como Lepanto.",
+      "result": "Victoria decisiva de la Liga Santa",
+      "belligerents": "Liga Santa:\nImperio español\nRepública veneciana\nRepública de Génova\nEstados Pontificios\nOrden de Malta\nGran Ducado de Toscana\nDucado de Saboya\nCaballeros de San Lázaro\nOrden Militar de San Esteban | Imperio otomano",
+      "commanders": "Juan de Austria\nÁlvaro de Bazán\nAlejandro Farnesio\nLuis de Requesens\nSebastiano Venier\nBarbarigo †\nGianandrea Doria\nMarco Antonio Colonna\nPietro Giustiniani\nMathurin Romegas | Alí Bajá †\nMehmed Siroco †\nUluj Alí",
+      "casualties": "Armada de la Liga Santa\n• 227 galeras\n• 6 galeazas\n• 76 fragatas o bergantines\n• 1815 cañones\n• 86 000 hombres\n10 000 muertos\n8000 heridos\n13 galeras perdidas\n12 000 cautivos cristianos liberados | Armada otomana\n• 210 galeras\n• 87 galeotas y fustas\n• 750 cañones\n• 88 000 hombres\n40 000 muertos\n8000 prisioneros\n200 galeras hundidas, quemadas o capturadas",
+      "image": "http://localhost:3000/images/battle_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Batalla de Trafalgar",
+      "date": "21 de octubre de 1805 (hace 220 años)",
+      "region": "Atlántico",
+      "country": "España",
+      "description": "La batalla de Trafalgar fue una batalla naval que tuvo lugar el 21 de octubre de 1805, en el marco de la Tercera Coalición iniciada por Reino Unido, Austria, Rusia, Nápoles y Suecia para intentar derrocar a Napoleón Bonaparte del trono imperial y disolver la influencia militar francesa existente en ...",
+      "result": "Victoria británica",
+      "belligerents": "Reino Unido | Imperio francés\nImperio Español",
+      "commanders": "Vicealmirante Nelson †\nVicealmirante Collingwood | Vicealmirante Villeneuve\nContraalmirante Magon †\nTeniente general Gravina\nJefe de escuadra Escaño\nBrigadier Uriarte\nBrigadier Valdés\nBrigadier Alcalá-Galiano †\nBrigadier Churruca †\nJefe de escuadra Álava\nCapitán de navío Alsedo †\nJefe de escuadra Hidalgo de Cisneros",
+      "casualties": "Marina Real británica:\n• 27 navíos de línea\n• 4 fragatas\n• 2 otros\n• 18 000 hombres\n458 muertos\n1208 heridos | Marina Francesa:\n• 18 navíos de línea\n• 5 fragatas\n• 2 bergantines\nReal Armada Española:\n• 15 navíos de línea\n27 000 efectivos (conjuntos)\n3240 muertos\n2538 heridos\n7000 prisioneros\n13 navíos de línea.-\n• 2 navíos de línea hundidos\n• 3 navíos de línea capturados y hundidos a posteriori\n• 1 navío de línea capturado\n• 4 navíos de línea capturados y hundidos a posteriori\n• 3 navíos de línea capturados",
+      "image": "http://localhost:3000/images/battle_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Batalla de las Navas de Tolosa",
+      "date": "16 de julio de 1212",
+      "region": "Península Ibérica",
+      "country": "España",
+      "description": "La batalla de las Navas de Tolosa, llamada en la historiografía árabe «batalla de Al-Iqāb» o «batalla del castigo» (معركة العقاب) y en la cristiana también, «batalla de Úbeda», enfrentó el 16 de julio de 1212 a un ejército aliado cristiano formado en gran parte por tropas castellanas de Alfonso VIII...",
+      "result": "Victoria cristiana decisiva",
+      "belligerents": "Reino de Castilla\n• Orden de Santiago\n• Orden de Calatrava\nCorona de Aragón\nReino de Navarra mostrar Aliados católicos: Caballeros templarios\nCaballeros Hospitalarios\nNarbona\nVoluntarios franceses\nVoluntarios leoneses\nVoluntarios portugueses\nVoluntarios occitanos | Califato almohade y tropas de los reinos taifas anexionados",
+      "commanders": "Alfonso VIII de Castilla\nmostrar Ver lista Rodrigo Jiménez de Rada\nDiego II de Haro\nLope Díaz de Haro\nFernán Gutiérrez de Castro\nSancho Fernández de León\nPedro Arias †\nGómez Ramírez\nGutierre Armíllez\nRodrigo Díaz de Yanguas\nRodrigo Díaz de los Cameros\nÁlvaro Díaz de los Cameros\nPedro Gonzalez de Medrano\nFernando Núñez de Lara\nGonzalo Núñez de Lara\nGarcía Almoravid \"el Viejo\"\nGonzalo Ruiz Girón\nGuillén Pérez de Guzmán\nNuño Pérez de Guzmán\nTeobaldo Pérez de Guzmán\nAlfonso Téllez de Meneses\nTello Téllez de Meneses\nSuero Téllez de Meneses\nGarcía Téllez de Meneses Pedro II de Aragónmostrar Ver lista Nuño Sánchez\nSancho I de Cerdaña\nJimeno Cornel\nHugo IV de Ampurias\nGuerau IV de Cabrera Sancho VII de Navarra | Muhámmad an-Násir",
+      "casualties": "12 000-14 000 soldados\n2000 | 22 000-30 000 soldados\n11 000-15 000[nota 1]",
+      "image": "http://localhost:3000/images/battle_3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Batalla del Ebro",
+      "date": "25 de julio-16 de noviembre de 1938",
+      "region": "Península Ibérica",
+      "country": "España",
+      "description": "La batalla del Ebro fue una batalla librada durante la guerra civil española. Fue la batalla en que más combatientes participaron, la más larga y una de las más sangrientas de toda la guerra. Tuvo lugar en el cauce bajo del valle del Ebro, entre la zona occidental de la provincia de Tarragona (Tierr...",
+      "result": "Victoria inicial republicana[nota 1]Victoria decisiva sublevada[nota 2]",
+      "belligerents": "República Española Brigadas Internacionales | Bando sublevado Alemania nazi Reino de Italia",
+      "commanders": "Vicente Rojo Lluch\nJuan Modesto\nEnrique Líster\nManuel Tagüeña\nEtelvino Vega\nJosé del Barrio\nHans Kahle\nDomiciano Leal †\nManuel Álvarez †\nEl Esquinazau | Francisco Franco\nFidel Dávila\nJuan Yagüe\nRafael García Valiño\nFrancisco Delgado\nFernando Barrón\nEl Mizziam",
+      "casualties": "Ejército del Ebro\n• 100 000-130 000 hombres (final de la batalla)\n• 250 piezas de artillería de campaña\n• 27 piezas de artillería antiaérea\n• 120 tanques y vehículos blindados\nAviación Republicana (F.A.R.E.)\n• 24 bombarderos SB-2 «Katiuska»\n• 90 I-16 tipo 10 «Supermosca»\n• 20 I-16 tipo 6\n• 40 I-15 «Chato»\n• 30 Grumman FF\n(Más de 200 aviones)\nTotal: 46 713 bajas\n7150 muertos\n20 000 heridos\n19 563 prisioneros\n≈ 100 aviones derribados | Ejército del Norte[nota 3]\n• 98 000 hombres-185 000 (final de la batalla)\n• 550 piezas de artillería\nLegión Cóndor\n• 36 He-111\n• 18 Bf-109 C y D\n• 7 Ju-87 Stuka\nAviación Legionaria\n• 50 Fiat C.R.32\n• 60 Savoia S-79 y S-81\n(más de 300 aviones)\nTotal: 41 500 bajas\n6500 muertos\n30 000 heridos\n5000 prisioneros\n≈ 50 aviones derribados",
+      "image": "http://localhost:3000/images/battle_4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Batalla de Bailén",
+      "date": "18-22 de julio de 1808",
+      "region": "Península Ibérica",
+      "country": "España",
+      "description": "La batalla de Bailén se libró durante la guerra de la Independencia española y supuso la primera derrota en campo abierto de la historia del ejército napoleónico. Tuvo lugar el 19 de julio de 1808 junto a la ciudad jienense de Bailén. Enfrentó a un ejército francés de unos 22 000 soldados al mando d...",
+      "result": "Victoria decisiva española",
+      "belligerents": "Primer Imperio francés | Reino de España",
+      "commanders": "Pierre Antoine Dupont\nDominique Honoré Antoine Marie Vedel\nJacques-Nicolas Gobert †\nLigier-Belair | Francisco Javier Castaños\nTeodoro Reding\nAntonio Malet\nJosé de San Martín\nFrancisco de Saavedra",
+      "casualties": "22 000 soldados\n19 635\n• 2000 muertos y heridos\n• 17 635 prisioneros | 29 770 soldados\n1000",
+      "image": "http://localhost:3000/images/battle_5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Batalla de Stalingrado",
+      "date": "17 de julio de 1942 - 2 de febrero de 1943 (200 días)",
+      "region": "Europa del Este",
+      "country": "Rusia",
+      "description": "La batalla de Stalingrado fue un gran enfrentamiento bélico entre el Ejército Rojo de la Unión Soviética y la Wehrmacht (Fuerzas Armadas) de la Alemania nazi y sus aliados del Eje, por el control de la ciudad soviética de Stalingrado, actual Volgogrado, entre el 23 de agosto de 1942 y el 2 de febrer...",
+      "result": "Decisiva victoria soviética",
+      "belligerents": "Alemania nazi Alemania nazi\nItalia\nHungría\nRumanía\nEstado Croata | Unión Soviética",
+      "commanders": "Adolf Hitler\nM. von Weichs\nHermann Hoth\nFriedrich Paulus\nWalter Heitz †\nWalther von Seydlitz-Kurzbach\nErich von Manstein\nPetre Dumitrescu\nConstantinescu\nItalo Gariboldi\nGusztáv Jány\nViktor Pavičić †\nWehrmacht\nGrupo de Ejércitos B:\n6.º Ejército\n4.º Ejército Panzer\n3.º Ejército\n4.º Ejército\n8.º Ejército\n2.º Ejército\nLegión Croata\nGrupo de Ejércitos Don:[nota 1]\n• 6.º Ejército\n• 4.º Ejército Panzer\n• 1.º Ejército Panzer\n• 3.º Ejército rumano | Iósif Stalin\nSemión Timoshenko\nAndréi Yeriómenko\nVasili Chuikov\nNikita Jrushchov\nNikolái Vóronov\nNikolái Vatutin\nFiódor Tolbujin\nRodión Malinovski\nA. Vasilevski\nGueorgui Zhúkov\nProkofi Romanenko\nKonstantín Rokosovski\nEjército Rojo\nFrente de Stalingrado:\n• 28.º Ejército\n• 51.º Ejército\n• 57.º Ejército\n• 62.º Ejército\n• 64.º Ejército\nFrente del Don:[nota 2]\n• 24.º Ejército\n• 65.º Ejército\n• 66.º Ejército\nFrente Suroeste:[nota 3]\n• 24.º Ejército de Guardias\n• 1.º Ejército de Tanques\n• 21.º Ejército",
+      "casualties": "Inicialmente:\n• 275 000 soldados\n• 3000 piezas de artillería\n• 500 carros de combate\n• 600-1600 aviones[nota 4]\nEn el momento de la contraofensiva soviética:\n• 1 040 000 soldados[nota 5]\n• 10 250 piezas de artillería\n• 732 aviones (402 operativos)\nAlemania:\n• 279 794 muertos, heridos y desaparecidos\n• 108 890 prisioneros (de los cuales solo 5000 sobrevivirían al cautiverio, siendo liberados entre 1955 y 1956).\nRumania:\n• 158 854 muertos, heridos y desaparecidos\nHungría:\n• 143 000 muertos, heridos y desaparecidos\nItalia:\n• 114 520 muertos, heridos y desaparecidos\nHiwi:\n• 52 000 muertos\nOtros aliados:\n• 26 000 muertos heridos y desaparecidos\nTotal: 883 058 bajas\nMateriales\nDestruidos:\n• 900 aviones\n• 6000 piezas de artillería\nCapturados:\n• 744 aviones\n• 1666 tanques y cañones de asalto\n• 5762 piezas de artillería | Inicialmente:\n• 187 000 soldados\n• 2200 piezas de artillería\n• 400 carros de combate\n• 300 aviones\nEn el momento de la contraofensiva soviética:\n• 2 500 000 soldados (1 143 000 en el área de Stalingrado)\n• 13 451 piezas de artillería\n• 894-4000 carros de combate\n• 1115 aviones\n• 478 741 muertos y desaparecidos\n• 650 878 heridos y enfermos\n• 300 000 civiles muertos y desaparecidos (de los cuales solo 1515 sobrevivieron a la batalla)\nTotal: 1 429 619 bajas\nDestruidos:\n• 2769 aviones\n• 4341 carros de combate\n• 15 728 piezas de artillería",
+      "image": "http://localhost:3000/images/battle_6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Batalla de Normandía",
+      "date": "6 de junio-30 de agosto de 1944",
+      "region": "Europa Occidental",
+      "country": "Francia",
+      "description": "La batalla de Normandía, llamada en clave operación Overlord, fue la operación militar efectuada por los Aliados durante la Segunda Guerra Mundial que culminó con la liberación de los territorios de Europa occidental ocupados por la Alemania nazi. La operación anfibia dio comienzo el 6 de junio de 1...",
+      "result": "Decisiva victoria aliada",
+      "belligerents": "Aliados:\nReino Unido Reino Unido\nEstados Unidos Estados Unidos\nCanadá Canadá\nmostrar Otros: Fuerzas de la Francia Libre\nFuerzas polacas libres\nResistencia francesa\nFuerzas libres belgas\nFuerzas libres neerlandesas\nFuerzas libres griegas\nFuerzas libres noruegas\nFuerzas libres checoslovacas\nAustralia Australia\nNueva Zelanda Nueva Zelanda\nExiliados españoles\nFuerzas libres luxemburguesas\nMarineros daneses | Eje:\nAlemania nazi",
+      "commanders": "Dwight D. Eisenhower\n(Comandante Supremo Aliado)\nArthur Tedder\n(Delegado del Comandante Supremo)\nBernard Montgomery\n(Comandante fuerzas terrestres)\nBertram Ramsay\n(Comandante fuerzas navales)\nTrafford Leigh-Mallory\n(Comandante fuerzas aéreas) | Adolf Hitler\n(Führer de Alemania)\nGerd von Rundstedt\n(Comando del Ejército Oeste)\nErwin Rommel\n(Grupo de Ejércitos B)",
+      "casualties": "1 452 000 (25 de julio)\n2 052 299 (finales de agosto)\nDe 225 606 a 226 386\n4101 aviones\n~4000 carros\nBatalla de Normandía→ Northern France Campaign | 380 000 (23 de julio)\n+ 1 000 000 (finales de agosto)\n2200-~2300 carros de combate y cañones de asalto\nDe 400 000 a 450 000\n2127 aviones\n~2200 carros y cañones",
+      "image": "http://localhost:3000/images/battle_7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Batalla de Termopilas",
+      "date": "Desconocido",
+      "region": "Mediterráneo",
+      "country": "Grecia",
+      "description": "",
+      "result": "Desconocido",
+      "belligerents": "Desconocido",
+      "commanders": "Desconocido",
+      "casualties": "Desconocido",
+      "image": ""
+    }
+  ]
+}
