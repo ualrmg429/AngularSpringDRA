@@ -1,0 +1,85 @@
+<header class="app-header">
+  <h1>⚔ Ares Codex</h1>
+  <p>Registro histórico de batallas</p>
+</header>
+
+<main class="content">
+  @if (loading()) {
+    <div class="state-message">
+      <div class="spinner"></div>
+      <p>Cargando batallas...</p>
+    </div>
+  } @else if (error()) {
+    <div class="state-message error">
+      <p>{{ error() }}</p>
+    </div>
+  } @else {
+    <div class="battles-grid">
+      @for (battle of battles(); track battle.id) {
+        <article class="battle-card" [class.expanded]="isExpanded(battle.id)">
+          <div class="card-header" (click)="toggleExpand(battle.id)">
+            <div class="card-title-row">
+              <h2 class="battle-name">{{ battle.name }}</h2>
+              <span class="toggle-icon">{{ isExpanded(battle.id) ? '▲' : '▼' }}</span>
+            </div>
+            <div class="card-meta">
+              <span class="meta-item">📅 {{ battle.date }}</span>
+              <span class="meta-item">🌍 {{ battle.region }} · {{ battle.country }}</span>
+            </div>
+            <div class="result-badge">{{ battle.result }}</div>
+          </div>
+
+          @if (isExpanded(battle.id)) {
+            <div class="card-body">
+              @if (battle.description) {
+                <section class="detail-section">
+                  <h3>Descripción</h3>
+                  <p>{{ battle.description }}</p>
+                </section>
+              }
+
+              @if (battle.belligerents && battle.belligerents !== 'Desconocido') {
+                <section class="detail-section">
+                  <h3>Beligerantes</h3>
+                  <div class="belligerents-row">
+                    @for (side of battle.belligerents.split('|'); track $index) {
+                      <div class="belligerent-side">
+                        <p>{{ side.trim() }}</p>
+                      </div>
+                    }
+                  </div>
+                </section>
+              }
+
+              @if (battle.commanders && battle.commanders !== 'Desconocido') {
+                <section class="detail-section">
+                  <h3>Comandantes</h3>
+                  <div class="belligerents-row">
+                    @for (side of battle.commanders.split('|'); track $index) {
+                      <div class="belligerent-side">
+                        <p class="pre-wrap">{{ side.trim() }}</p>
+                      </div>
+                    }
+                  </div>
+                </section>
+              }
+
+              @if (battle.casualties && battle.casualties !== 'Desconocido') {
+                <section class="detail-section">
+                  <h3>Bajas y fuerzas</h3>
+                  <div class="belligerents-row">
+                    @for (side of battle.casualties.split('|'); track $index) {
+                      <div class="belligerent-side">
+                        <p class="pre-wrap">{{ side.trim() }}</p>
+                      </div>
+                    }
+                  </div>
+                </section>
+              }
+            </div>
+          }
+        </article>
+      }
+    </div>
+  }
+</main>
